@@ -1,0 +1,88 @@
+.main{
+    padding-top: 10em;
+}
+.main .sec, input{
+    display: flex;
+    justify-content: center;
+}
+.sec2, button{
+  display: flex;
+  justify-content: center;
+}
+.sec3, button{
+    display: flex;
+    justify-content: center;
+}
+.sec3, button{
+    display: flex;
+    justify-content: center;
+}
+.sec4, button{
+      display: flex;
+      justify-content: center;
+}
+.sec5, button{
+    display: flex;
+    justify-content: center;
+}
+.sec6, button{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.box button{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    align-items: center;
+    
+}
+.box1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.isequal{
+    height: 100px !important;
+    width: 50px;
+    position: absolute;
+    /* right: 40.3%; */
+    right: 0;
+    margin-bottom: 50px;
+    background-color: #f79222;
+    border: 1px solid transparent;
+}
+.main12{
+    width: fit-content;
+}
+.box2{
+    padding-right: 50px;
+    position: relative !important;
+}
+.main{
+    position: relative;
+}
+.inp{
+width: 100%;
+}
+.inp input{
+    width: 75%;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    outline: none;
+    border: 1px solid #686868;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
